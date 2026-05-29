@@ -1,3 +1,5 @@
+import pandas as pd
+
 def test_amount():
     df = pd.read_excel("sample.xlsx")
 
