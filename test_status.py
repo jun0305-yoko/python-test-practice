@@ -1,3 +1,5 @@
+import pandas as pd
+
 def test_status():
     df = pd.read_excel("sample.xlsx")
 
